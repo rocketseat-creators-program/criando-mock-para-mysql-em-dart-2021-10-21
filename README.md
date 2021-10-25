@@ -8,6 +8,7 @@ pois essa camanda sempre é dependente de um banco de dados.
 E nesse vídeo vou mostrar uma estratégia de como você pode criar um mock do driver mysql e assim fazer o teste da sua camada sem precisar depender de uma banco
 de dados.
 
+Sobre o ambiente de desenvolvimento é necessária a instalação padrão do Flutter, ter o Dart instalado também e um editor como por exemplo o Visual Studio Code.
 
 
 ## Expert
